@@ -6,15 +6,17 @@ Enabling the future of edge computing through NextArch developers focuses on edg
 
 ## Members
 
+***1-2 member per organization***
+
 | Name                        | Organization         |
 | --------------------------- | -------------------- |
-| C.C. | [Allegro](https://yomo.run) |
+| C.C., Yona | [Allegro](https://yomo.run) |
 | Bart Dong | [Tencent](https://opensource.tencent.com/)  |
-| Michael Yuan | [SecondState](https://wasmedge.org/) |
+| Michael Yuan, Vivian Hu | [SecondState](https://www.secondstate.io/) |
 | Jianxin Sun | [Agora](https://agora.io) |
 | Wen Yang | [Aftership](https://aftership.com) |
 | Tina | [LF Edge Akraino](https://www.lfedge.org/projects/akraino/) |
-| Chong Wu | [ThunderSoft](https://www.thundersoft.com/) |
+| Shouyong Liu, Chong Wu | [ThunderSoft](https://www.thundersoft.com/) |
 | Pan Yang | [Taosdata](https://www.taosdata.com/) |
 
 ## Responsibilities
