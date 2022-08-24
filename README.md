@@ -15,7 +15,7 @@ Enabling the future of edge computing through NextArch developers focuses on edg
 | Michael Yuan, Vivian Hu | [SecondState](https://www.secondstate.io/) |
 | Jianxin Sun | [Agora](https://agora.io) |
 | Wen Yang | [Aftership](https://aftership.com) |
-| Tina | [LF Edge Akraino](https://www.lfedge.org/projects/akraino/) |
+| Tina | [LF Edge](https://www.lfedge.org/) |
 | Shouyong Liu, Chong Wu | [ThunderSoft](https://www.thundersoft.com/) |
 | Pan Yang | [Taosdata](https://www.taosdata.com/) |
 
