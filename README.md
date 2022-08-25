@@ -14,7 +14,7 @@ Enabling the future of edge computing through NextArch developers focuses on edg
 | Bart Dong | [Tencent](https://opensource.tencent.com/)  |
 | Michael Yuan, Vivian Hu | [SecondState](https://www.secondstate.io/) |
 | Jianxin Sun | [Agora](https://agora.io) |
-| Wen Yang | [Aftership](https://aftership.com) |
+| Wen Yang | [AfterShip](https://aftership.com) |
 | Tina | [LF Edge](https://www.lfedge.org/) |
 | Shouyong Liu, Chong Wu | [ThunderSoft](https://www.thundersoft.com/) |
 | Pan Yang | [Taosdata](https://www.taosdata.com/) |
